@@ -1,0 +1,4 @@
+plugins { id 'com.android.application' }
+android { namespace 'it.promptstudio'; compileSdk 35
+ defaultConfig { applicationId 'it.promptstudio'; minSdk 29; targetSdk 34; versionCode 1; versionName '0.1' }
+}
